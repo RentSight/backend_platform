@@ -1,0 +1,6 @@
+@Rent_Sight.API_HostAddress = http://localhost:5206
+
+GET {{Rent_Sight.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
